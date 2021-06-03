@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the Lady Bridgman: a real mortgagee of an estate in Essex for 2000l. principal-money. Upon the petition of Josiah Thwaites, who pretends title to the said estate.</title>
+            <author>Bridgeman, Susanna, Lady, ca. 1685-1747.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18682</idno><idno type="EEBO-CITATION">99893638</idno>
+  <idno type="VID">189446</idno>
+  <idno type="EEBO-PROQUEST">2240929454</idno>
+  
+            <idno type="STC">Wing C1101A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1888.c.11[23]</idno>
+            <idno type="STC">ESTC T14131</idno>
+            <idno type="PROQUEST">ocm99893638</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99893638e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18682)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189446)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C16:2[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the Lady Bridgman: a real mortgagee of an estate in Essex for 2000l. principal-money. Upon the petition of Josiah Thwaites, who pretends title to the said estate.</title>
+                  <author>Bridgeman, Susanna, Lady, ca. 1685-1747.</author>
+                  <author>Thwaites, Josiah.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated 1695? by Wing.</note>
+                  <note>Signed: Sam. Dodd.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Inheritance and succession --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Estates (Law) --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:189446:1"/>
+            <head>The CASE of the Lady Bridgman: A Real Mortgagee of an Estate in <hi>Essex</hi> for 2000 <hi>l.</hi> Principal-Money. Ʋpon the PETITION of <hi>Josiah Thwaites,</hi> who pretends Title to the said Estate.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>ILLIAM THWAITES</hi> being Owner of the said Estate,
+<note place="margin">12 Dec. 1678.</note> settles the same to the Use of himself and his Wife for their Lives; Remainder to <hi>Thomas</hi> his second Son, and <hi>Frances</hi> his Daughter, and their Heirs.</p>
+            <p>Upon the Death of <hi>William</hi> and his Wife, and <hi>Thomas,</hi> without Issue, this Estate vested in <hi>Frances,</hi> who in<g ref="char:EOLhyphen"/>termarried with one Mr. <hi>Dye.</hi>
+            </p>
+            <p>That after Marriage, <hi>Dye</hi> enquiring for the Deed of Settlement, and finding it in the hands of one Mr. <hi>Heath,</hi> (who was Guardian, or concerned for the Heir at Law,) and that the same was razed, and the Name of <hi>James,</hi> the Heir at Law, inserted, instead of <hi>Frances</hi> the Daughter.</p>
+            <p>The said <hi>Dye</hi> and his Wife brought their Bill in the Exchequer,
+<note place="margin">
+                  <hi>Trin. Term</hi> 1682.</note> to discover and be Relieved against this practice.</p>
+            <p>After an Hearing in Equity,
+<note place="margin">15 June 1683.</note> a Tryal was had at the Bar of that Court by a Special Jury of Gentlemen; who, after a long Examination of Witnesses, gave a Verdict, That the said Deed of Settlement was razed after the Execution thereof; And that the Name of <hi>James</hi> was inserted instead of <hi>Frances;</hi> and the said <hi>James</hi> and his Friends appearing to be fully satisfied therein, and not pretending any surprize or want of Witnesses,</p>
+            <p>A Decree was made according to the said Verdict, for the Right and Title of the said <hi>Dye</hi> and his Wife; and they qui<g ref="char:EOLhyphen"/>etly enjoyed the Estate for many Years; and afterwards wanting 2000 <hi>l.</hi> upon a Mortgage thereof,</p>
+            <p>The Lady <hi>Bridgman</hi> being advised she might safely lend her Money upon a Title so solemnly setled and determined by the said Tryal and Decree, did lend the said <hi>Dye</hi> and his Wife 2000 <hi>l.</hi> upon a Mortgage of the said Estate.</p>
+            <p>That after the Lady had parted with her Money, the said <hi>James Thwaites</hi> Appealed from the said Decree, and Obtained an Order for a Second Tryal, if he should think fit: But the said <hi>James</hi> upon Enquiry, being, as is believed, well satisfied of the Truth of the Case, sate still for Eight Years after, and never offered to Try it again; but died about Three Years ago.</p>
+            <p>That since his Death, the Petitioner <hi>Josiah Thwaites,</hi> his Son and Heir, in <hi>Trinity-Term</hi> last did bring the Cause on to Tryal, and (as the said Lady <hi>Bridgman</hi> hath reason to believe, being under-hand assisted therein by the said Mr. <hi>Dye,</hi> who hath Mortgaged and Incumbred the Estate to the full Value thereof, and is a Prisoner, and unable to pay the said Mortgage-money) hath obtained a Verdict different from the former Tryal; And hath now Petitioned to have the first Decree Re<g ref="char:EOLhyphen"/>versed, the Consequence whereof must be the total Loss of the said 2000 <hi>l.</hi> Mortgage-money, and near 1200 <hi>l.</hi> due for the Interest of the same.</p>
+            <p>The Lady <hi>Bridgman</hi> humbly hopes your Lordships will be pleased to Grant her another Tryal in this Case, and an Order for to give in Evidence her Mortgage upon such Tryal.</p>
+            <list>
+               <item>I. For that She is an Innocent Mortgage, lent her Money upon the Faith and Credit of the Tryal at Bar, and the Decree of the Court of Exchequer grounded thereupon, after an Acquiescence under that very Tryal and Decree for many Years; and although for part of that time the said <hi>James Thwaites</hi> was a <hi>Minor,</hi> yet for about Ten Years before his Death he was of full Age.</item>
+               <item>II. For that the said <hi>James Thwaites,</hi> after he had leave to Try the Cause again, sate still for at least Eight Years together, and never proceeded therein, being all that time of full Age.</item>
+               <item>III. For that the first Tryal was a most solemn Tryal at the Bar, and brought to Tryal when Matters were fresh, and in memory, and when several Witnesses were living, of whose Testimony the said Lady at this second Tryal was deprived by their Deaths; And too much relying upon the former Tryal, and so long a Possession, made her Agents more careless in these Matters.</item>
+               <item>IV. For that the last Verdict, as she humbly conceives, was against the Weight of the Evidence; And upon which Matter, in case the Cause had depended in <hi>Westminster-Hall,</hi> she hath great Reason to believe the Court would without difficulty have granted her a New Tryal, and not have for ever concluded her Right thereby, espe<g ref="char:EOLhyphen"/>cially when at most there is but Verdict against Verdict; and so in Justice she is Intitled to another Tryal: And also, when she hath great Reason to fear, that Mr. <hi>Dye</hi> the Mortgagor having made the most of his Estate, is, in the bottom, in the Interest of his Nephew to defeat the Mortgagee of her Money.</item>
+            </list>
+            <p>And when the said Lady applied to the Court of Exchequer for another Tryal, she was Justly answer'd, That the Cause being before your Lordships, and the said Tryal being by the Direction of the House of Lords; therefore the Court of Ex<g ref="char:EOLhyphen"/>chequer could do nothing therein: And she being for ever disabled, without your Lordships direction, to Try this Matter again;</p>
+            <p>
+               <hi>The said Lady humbly prays, that your Lordships would be pleased to Grant her a New Tryal in this Case, and then she doubts not but to satisfy your Lordships and the Jury of the Razure of the said Deed after it was executed, and of the Justice of her Cause herein.</hi>
+            </p>
+            <closer>
+               <signed>Sam. Dodd.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:189446:2"/>
+            <p>The Lady <hi>Bridgman</hi>'s Case.</p>
+            <p>To be Heard at the Bar of the House of Lords on <hi>Friday</hi> the 2d of <hi>May</hi> 1701.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
